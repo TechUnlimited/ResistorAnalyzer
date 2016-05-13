@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:3:5-60
 		INJECTED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidMa
 		INJECTED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:5:5-21:19
+ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support:appcompat-v7:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
@@ -32,6 +32,9 @@ MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRep
 MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -43,23 +46,26 @@ MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRep
 	android:theme
 		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:10:9-40
 activity#com.example.resistoranalyzer.resistoranalyzer.MainActivity
-ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:11:9-20:20
-	android:label
-		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:13:13-45
-	android:theme
-		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:14:13-56
+ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:12:13-41
+		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:11:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:15:27-74
+meta-data#com.google.android.gms.version
+ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:19:9-21:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml:20:13-58
 uses-sdk
 INJECTED from /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
@@ -79,6 +85,9 @@ MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRep
 MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.3.0] /home/ankur/CSPrec/GitHubRepo/ResistorAnalyzer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:23:9-75
